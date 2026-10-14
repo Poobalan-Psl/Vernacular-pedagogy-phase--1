@@ -1,0 +1,16 @@
+torch>=2.1.0
+transformers>=4.38.0
+accelerate
+optimum[onnxruntime]
+onnxruntime
+opencv-python
+pytesseract
+Pillow
+soundfile
+librosa
+sqlalchemy
+psycopg2-binary
+evaluate
+sacrebleu
+jiwer
+streamlit
